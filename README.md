@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jodatpanah</h1>
 <h3 align="center">A passionate Front-End (Vue.js / Nuxt) developer from Iran</h3>
 
-- 🔭 I’m currently working on **nuxt.js projects**
+- 🔭 I’m currently working on **nuxt projects**
 
 - 🌱 I’m currently learning **Back-End (Node.js)**
 
